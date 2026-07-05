@@ -133,21 +133,6 @@ I aspire to become a **Software Engineer** at a leading product-based company wh
 
 ---
 
-# 📚 Currently Learning
-
-```text
-✔ C++ STL
-✔ Advanced DSA
-✔ React.js
-✔ JavaScript ES6+
-✔ GitHub Actions
-✔ Firebase
-✔ REST APIs
-✔ AI & Machine Learning
-✔ Cloud Basics
-```
-
----
 
 # 🤝 Looking For
 
@@ -177,37 +162,18 @@ I aspire to become a **Software Engineer** at a leading product-based company wh
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript," />
 
 </p>
 
 ---
 
-## ⚙️ Backend & Database
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,mongodb" />
-
-</p>
-
----
-
-## ☁️ Cloud & Deployment
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=firebase,vercel,netlify,github" />
-
-</p>
-
----
 
 ## 🛠️ Tools & Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux,arduino" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,,linux,arduino" />
 
 </p>
 
@@ -225,93 +191,18 @@ I aspire to become a **Software Engineer** at a leading product-based company wh
 
 </p>
 
----
 
-## 📚 Currently Exploring
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,docker,aws,tensorflow" />
-
-</p>
-
----
 
 # 🚀 Areas of Interest
 
 ```text
-💻 Software Development
-
-🌐 Full Stack Web Development
-
 📱 Responsive UI Design
-
 🤖 Artificial Intelligence & Machine Learning
-
 📊 Data Structures & Algorithms
-
-☁️ Cloud Computing
-
 📡 Internet of Things (IoT)
-
 🔓 Open Source
-
 🏆 Competitive Programming
-
-📱 Mobile App Development
 ```
-
----
-
-# 📈 Learning Roadmap
-
-```text
-✅ C Programming
-████████████████████ 100%
-
-✅ C++
-████████████████████ 100%
-
-✅ Java
-██████████████████░░ 90%
-
-✅ Python
-████████████████░░░░ 80%
-
-✅ Git & GitHub
-█████████████████░░░ 85%
-
-✅ DSA
-██████████████░░░░░░ 70%
-
-✅ Web Development
-█████████████░░░░░░░ 65%
-
-✅ React.js
-██████████░░░░░░░░░░ 50%
-
-✅ AI / ML
-████████░░░░░░░░░░░░ 40%
-```
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Crack a Product-Based Company
-- 🏆 Become an Expert in DSA
-- 🌍 Contribute to Open Source
-- 💡 Publish Research Papers
-- 🤖 Learn AI & Machine Learning
-- 🌐 Build Full Stack Projects
-- 📱 Create Real-World Applications
-- ☁️ Learn Cloud Technologies
-- 👨‍💻 Reach 500+ LeetCode Problems
-- ⭐ Grow as a Software Engineer
-
----
-
-
 
 # 📊 GitHub Analytics
 
@@ -351,21 +242,6 @@ I aspire to become a **Software Engineer** at a leading product-based company wh
 
 ---
 
-# 🚀 Featured Projects
-
-## 🏥 IoT Smart Stretcher Tracking System
-
-📍 GPS Based Live Tracking
-
-📍 IR Sensor Occupancy Detection
-
-📍 Firebase Cloud Integration
-
-📍 NodeMCU ESP8266
-
-📍 Real-Time Dashboard
-
----
 
 ## 💻 DSA Repository
 
@@ -407,37 +283,15 @@ https://ysushant840.github.io/my-portfolio/
 
 ```text
 🟢 Data Structures & Algorithms
-
 🟢 Web Development
-
-🟢 React.js
-
 🟢 AI / ML
-
 🟢 Firebase
-
 🟢 Open Source
-
 🟢 Research & Innovation
 ```
 
 ---
 
-# 📚 Certifications
-
-🚧 Coming Soon...
-
-Currently pursuing certifications in:
-
-✔ Git & GitHub
-
-✔ Web Development
-
-✔ AI / ML
-
-✔ Cloud Computing
-
----
 
 
 # 🐍 Contribution Snake
@@ -477,19 +331,12 @@ Currently pursuing certifications in:
 # 🏅 Achievements
 
 🏆 IEEE BBDNIIT Student Branch Chairperson
-
 🥇 National Innovation Showcase Winner
-
 🏅 Best Poster Presentation – IISF 2024
-
 💡 IoT Smart Stretcher Tracking System Developer
-
 🚀 Open Source Learner
-
 💻 Competitive Programmer
-
 🌐 Full Stack Web Development Enthusiast
-
 🤖 AI & Machine Learning Explorer
 
 ---
@@ -521,13 +368,11 @@ Currently pursuing certifications in:
 
 💯 Solve 500+ DSA Problems
 
-🚀 Build 15+ Real World Projects
+🚀 Build 10+ Real World Projects
 
 🌍 Become an Active Open Source Contributor
 
 🤖 Master AI & Machine Learning
-
-☁️ Learn AWS & Cloud Computing
 
 📚 Publish Research Papers
 
