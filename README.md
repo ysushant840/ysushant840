@@ -53,9 +53,17 @@
 ## 🏅 Achievements
 
 🥇 National Innovation Showcase Winner
+
 🏆 IEEE Student Branch Chairperson
+
 🎖 Best Poster Presentation — India International Science Festival (IISF) 2024
+
 💡 Developed an **IoT Smart Stretcher Tracking System**
+
+🚀 Open Source Learner
+
+💻 Competitive Programmer
+
 🚀 Passionate about Innovation, Research & Technology
 
 ---
@@ -285,7 +293,6 @@ https://ysushant840.github.io/my-portfolio/
 🟢 Data Structures & Algorithms
 🟢 Web Development
 🟢 AI / ML
-🟢 Firebase
 🟢 Open Source
 🟢 Research & Innovation
 ```
@@ -297,10 +304,11 @@ https://ysushant840.github.io/my-portfolio/
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ysushant840/ysushant840/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/ysushant840/ysushant840/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
+
 
 # 📊 GitHub Metrics
 
@@ -328,18 +336,6 @@ https://ysushant840.github.io/my-portfolio/
 
 ---
 
-# 🏅 Achievements
-
-🏆 IEEE BBDNIIT Student Branch Chairperson
-🥇 National Innovation Showcase Winner
-🏅 Best Poster Presentation – IISF 2024
-💡 IoT Smart Stretcher Tracking System Developer
-🚀 Open Source Learner
-💻 Competitive Programmer
-🌐 Full Stack Web Development Enthusiast
-🤖 AI & Machine Learning Explorer
-
----
 
 # ✍️ Random Dev Quote
 
@@ -361,27 +357,7 @@ https://ysushant840.github.io/my-portfolio/
 
 ---
 
-# 🎯 2026 Mission
 
-```text
-🎯 Crack a Product Based Company
-
-💯 Solve 500+ DSA Problems
-
-🚀 Build 10+ Real World Projects
-
-🌍 Become an Active Open Source Contributor
-
-🤖 Master AI & Machine Learning
-
-📚 Publish Research Papers
-
-🏆 Participate in Global Hackathons
-
-⭐ Grow an Impactful GitHub Profile
-```
-
----
 
 # 💖 Support My Work
 
@@ -447,23 +423,6 @@ It motivates me to build more awesome things for the community.
 
 </p>
 
----
-
-## ⚡ Fun Fact
-
-```text
-while(alive){
-
-    Learn();
-
-    Code();
-
-    Build();
-
-    Repeat();
-
-}
-```
 
 ---
 
@@ -473,16 +432,6 @@ while(alive){
 
 <img src="https://komarev.com/ghpvc/?username=ysushant840&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
-</p>
-
----
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ysushant840/ysushant840/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
