@@ -67,7 +67,8 @@
 🚀 Passionate about Innovation, Research & Technology
 
 ---
-# 🌐 Connect With Me
+# 🌐 Connect With Me & 💻 Coding Profiles
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sushant-ydv2302/" target="_blank">
@@ -95,25 +96,8 @@
 </a>
 </p>
 
----
 
-# 💻 Coding Profiles
 
-<p align="center">
-
-<a href="https://leetcode.com/u/udayyadav11/">
-<img src="https://img.shields.io/badge/LeetCode-Solving%20DSA-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://github.com/ysushant840">
-<img src="https://img.shields.io/badge/GitHub-Open%20Source-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sushant-ydv2302/">
-<img src="https://img.shields.io/badge/LinkedIn-Network-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-</p>
 
 ---
 
@@ -200,18 +184,6 @@ I aspire to become a **Software Engineer** at a leading product-based company wh
 </p>
 
 
-
-# 🚀 Areas of Interest
-
-```text
-📱 Responsive UI Design
-🤖 Artificial Intelligence & Machine Learning
-📊 Data Structures & Algorithms
-📡 Internet of Things (IoT)
-🔓 Open Source
-🏆 Competitive Programming
-```
-
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -287,20 +259,6 @@ https://ysushant840.github.io/my-portfolio/
 
 ---
 
-# 📌 Current Focus
-
-```text
-🟢 Data Structures & Algorithms
-🟢 Web Development
-🟢 AI / ML
-🟢 Open Source
-🟢 Research & Innovation
-```
-
----
-
-
-
 # 🐍 Contribution Snake
 
 <p align="center">
@@ -354,18 +312,6 @@ https://ysushant840.github.io/my-portfolio/
 <img src="https://github-contributor-stats.vercel.app/api?username=ysushant840&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
 
 </p>
-
----
-
-
-
-# 💖 Support My Work
-
-If you like my projects, consider giving them a ⭐.
-
-It motivates me to build more awesome things for the community.
-
-⭐ Star • 🍴 Fork • 👨‍💻 Follow
 
 
 
