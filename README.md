@@ -11,8 +11,9 @@
 </p>
 
 <p align="center">
+
 <a href="https://komarev.com/ghpvc/?username=ysushant840">
-<img src="https://komarev.com/ghpvc/?username=ysushant840&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=ysushant840&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </a>
 
 <img src="https://img.shields.io/github/followers/ysushant840?label=Followers&style=for-the-badge"/>
@@ -31,22 +32,22 @@
 
 ## 🚀 About Me
 
-🎓 **B.Tech Computer Science Engineering** Student at **BBDNIIT, Lucknow**
-👨‍💼 **Chairperson, IEEE BBDNIIT Student Branch**
-💡 Passionate about solving real-world problems through **Software Development, IoT and AI.**
-💻 Currently sharpening my skills in **Data Structures & Algorithms (C++)**, **Web Development**, and **Open Source.**
-🚀 I enjoy building impactful projects that combine **innovation with technology.**
+🎓 **B.Tech Computer Science Engineering** Student at **BBDNIIT, Lucknow**  
+👨‍💼 **Chairperson, IEEE BBDNIIT Student Branch**  
+💡 Passionate about solving real-world problems through **Software Development, IoT, and AI**.  
+💻 Currently sharpening my skills in **Data Structures & Algorithms (C++)**, **Web Development**, and **Open Source**.  
+🚀 I enjoy building impactful projects that combine **innovation with technology**.
 
 ---
 
-### 💼 Currently
+## 💼 Currently
 
-- 🌱 Learning **AIMl, Git & GitHub**
+- 🌱 Learning **AI/ML, Git & GitHub**
 - 💻 Solving **DSA Problems** on LeetCode
 - 🤝 Looking for **Open Source Contributions**
 - 🏆 Preparing for **Software Engineering Placements**
 - 📚 Exploring **AI/ML & Cloud Computing**
-- 🚀 Building Real World Projects
+- 🚀 Building Real-World Projects
 
 ---
 
@@ -67,37 +68,36 @@
 🚀 Passionate about Innovation, Research & Technology
 
 ---
+
 # 🌐 Connect With Me & 💻 Coding Profiles
 
-
 <p align="center">
+
 <a href="https://www.linkedin.com/in/sushant-ydv2302/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ysushant840" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/udayyadav11/"(https://leetcode.com/u/ysushant840/) target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
+<a href="https://leetcode.com/u/ysushant840/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://ysushant840.github.io/my-portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/sushant10x_" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:sushantmasthai@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 </p>
-
-
-
 
 ---
 
@@ -121,10 +121,9 @@ I aspire to become a **Software Engineer** at a leading product-based company wh
 
 ✅ AI / Machine Learning
 
-✅ IoT Based Smart Stretcher Tracking System
+✅ IoT-Based Smart Stretcher Tracking System
 
 ---
-
 
 # 🤝 Looking For
 
@@ -136,7 +135,6 @@ I aspire to become a **Software Engineer** at a leading product-based company wh
 - Innovative Startup Ideas
 
 ---
-
 
 # 💻 Tech Stack
 
@@ -154,18 +152,17 @@ I aspire to become a **Software Engineer** at a leading product-based company wh
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript," />
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
 
 </p>
 
 ---
 
-
 ## 🛠️ Tools & Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,,linux,arduino" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,arduino" />
 
 </p>
 
@@ -183,6 +180,7 @@ I aspire to become a **Software Engineer** at a leading product-based company wh
 
 </p>
 
+---
 
 # 📊 GitHub Analytics
 
@@ -222,8 +220,7 @@ I aspire to become a **Software Engineer** at a leading product-based company wh
 
 ---
 
-
-## 💻 DSA Repository
+# 💻 DSA Repository
 
 ✔ LeetCode Solutions
 
@@ -233,25 +230,29 @@ I aspire to become a **Software Engineer** at a leading product-based company wh
 
 ✔ Interview Preparation
 
+### 🔗 LeetCode Profile
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ysushant840/)
+
 ---
 
-## 🌐 Personal Portfolio
+# 🌐 Personal Portfolio
 
 Modern Responsive Portfolio Website
 
-Tech Used:
+### Tech Used
 
 - HTML
 - CSS
 - JavaScript
 
-Live Website👇
+### Live Website
 
-https://ysushant840.github.io/my-portfolio/
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://ysushant840.github.io/my-portfolio/)
 
 ---
 
-## 🌱 Open Source Journey
+# 🌱 Open Source Journey
 
 - Learning Git & GitHub
 - Contributing to Open Source
@@ -266,7 +267,6 @@ https://ysushant840.github.io/my-portfolio/
 </p>
 
 ---
-
 
 # 📊 GitHub Metrics
 
@@ -294,7 +294,6 @@ https://ysushant840.github.io/my-portfolio/
 
 ---
 
-
 # ✍️ Random Dev Quote
 
 <p align="center">
@@ -313,8 +312,6 @@ https://ysushant840.github.io/my-portfolio/
 
 </p>
 
-
-
 ---
 
 # 🌟 Let's Connect & Build Something Amazing!
@@ -322,23 +319,23 @@ https://ysushant840.github.io/my-portfolio/
 <p align="center">
 
 <a href="mailto:sushantmasthai@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sushant-ydv2302/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/sushant-ydv2302/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/ysushant840">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/ysushant840" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/udayyadav11/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="https://leetcode.com/u/ysushant840/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://ysushant840.github.io/my-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+<a href="https://ysushant840.github.io/my-portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 </p>
@@ -368,7 +365,6 @@ https://ysushant840.github.io/my-portfolio/
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=ffffff&animation=twinkling"/>
 
 </p>
-
 
 ---
 
